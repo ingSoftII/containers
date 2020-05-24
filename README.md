@@ -5,4 +5,4 @@ Para ejecutar cualquiera de los ejemplos simplemente debemos cambiar de director
 
 `docker-compose -f <nombre del archivo> up`
 
-Además hay una implementación de varios microservicios con Spring Boot en [este](https://github.com/nestor-flores/microservices) repositorio
+Además hay una implementación de varios microservicios con Spring Boot en [este](https://github.com/ingSoftII/microservices) repositorio
